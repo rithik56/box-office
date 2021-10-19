@@ -3,7 +3,7 @@ import React from 'react'
 import ShowCard from "./ShowCard"
 
 import { FlexGrid } from "../Styled"
-import { useShows } from "../../misc/custom-hooks"
+import { useShows } from "../../misc/Custom-Hooks"
 
 import IMAGE_NOT_FOUND from "../../images/not-found.png"
 
